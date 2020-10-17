@@ -9,6 +9,7 @@ async function main()
 		protocol: local.protocol,
 		server: local.server,
 		path: local.path,
+		port: local.port,
 	});
 	Promise.promisifyAll(mw);
 
