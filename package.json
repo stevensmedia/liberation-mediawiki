@@ -1,0 +1,16 @@
+{
+  "name": "liberation-mediawiki",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "liberation-mediawiki.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "nodemw": "^0.13.0"
+  }
+}

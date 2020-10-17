@@ -1,0 +1,12 @@
+/*
+ * You can create a Bot username and password here:
+ * https://liberationmush.site/liberationwiki/Special:BotPasswords
+ */
+module.exports = {
+	"user": "Polk@Liberation",
+	"password": "AshIsStillTheBum",
+	"protocol": "https",
+	"port": 443,
+	"server": "liberationmush.site",
+	"path": "/liberationwiki"
+}
